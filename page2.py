@@ -31,10 +31,10 @@ st.markdown(
 st.title("📚 Book Recommender System 📖")
 
 # Load data
-books = pickle.load(open("C:\\Users\\Asus\\Downloads\\MLProjects\\book_rec\\final.pkl", "rb"))
+books = pickle.load(open("final.pkl", "rb"))
 data = pd.DataFrame(books) 
 
-with open("C:\\Users\\Asus\\Downloads\\MLProjects\\book_rec\\pt.pkl", "rb") as file:
+with open("pt.pkl", "rb") as file:
     pt = pickle.load(file)
 
 
