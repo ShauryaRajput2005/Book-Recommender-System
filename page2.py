@@ -39,7 +39,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
 
-st.title("📚 Book Recommender System 📖")
+st.title("📚 Book Recommender ")
 
 # Load data
 books = pickle.load(open("final.pkl", "rb"))
