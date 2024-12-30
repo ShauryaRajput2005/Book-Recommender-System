@@ -3,6 +3,8 @@ import pickle
 import pandas as pd
 import numpy as np
 
+# Page Configuration
+st.set_page_config(page_title='Top Recommendations', page_icon='📚', layout='wide')
 
 # Styling
 st.markdown(
@@ -35,6 +37,9 @@ hide_st_style = """
             </style>
             """
 st.markdown(hide_st_style, unsafe_allow_html=True)
+
+st.title("📚 Book Recommender System 📖")
+
 
 st.title("📚 Book Recommender System 📖")
 
