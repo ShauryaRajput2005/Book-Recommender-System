@@ -4,7 +4,7 @@ Discover your next favorite read with this interactive Book Recommendation Syste
 
 ## Demo App  
 
-[![Streamlit App](https://book-recommender-5ystem.streamlit.app/)
+[Streamlit App](https://book-recommender-5ystem.streamlit.app/~/+/#6c71a2a8)
 
 
 ## Features  
