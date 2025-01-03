@@ -4,11 +4,8 @@ Discover your next favorite read with this interactive Book Recommendation Syste
 
 ## Demo App  
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://book-recommender.streamlit.app/)
+[![Streamlit App](https://book-recommender-5ystem.streamlit.app/)
 
-## GitHub Codespaces  
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/book-recommender-system?quickstart=1)
 
 ## Features  
 
